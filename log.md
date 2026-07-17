@@ -1,3 +1,3 @@
-WIB: Friday, 17 July 2026 18.20.00 UTC
-WITA: Friday, 17 July 2026 19.20.00 UTC
-WIT: Friday, 17 July 2026 20.20.00 UTC
+WIB: Friday, 17 July 2026 20.24.18 UTC
+WITA: Friday, 17 July 2026 21.24.19 UTC
+WIT: Friday, 17 July 2026 22.24.19 UTC
